@@ -15,7 +15,7 @@ from numpy import median
 # In[5]:
 
 
-os.chdir('C:/Users\jsham\OneDrive\Documents\AIT 580\SQL')
+os.chdir('C:/Users\jsham\OneDrive\Documents\SQL')
 os.getcwd()  
 
 #to read the dataset
